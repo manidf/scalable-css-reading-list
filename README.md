@@ -59,6 +59,7 @@ These styleguides articulate conventions and guidelines for authoring scalable C
 
 Articles providing overviews of real-life CSS methodologies for production sites and apps of significant scale. Although these articles generally don't include principles that are not better explained in the articles and longer reads above, they are so pragmatic and concrete that they are important reads in their own right. Newest first.
 
+- [How we do CSS at Ghost](http://dev.ghost.org/css-at-ghost), by Paul Davis (4/10/2014)
 - [Refining the Way We Structure Our CSS at Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/), by Bobby Grace (11/11/14)
 - [Medium's CSS is actually pretty f\*\*\*ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06), by Jacob Thornton (8/28/14)
 - [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/), by Mike Aparicio (8/10/14)
